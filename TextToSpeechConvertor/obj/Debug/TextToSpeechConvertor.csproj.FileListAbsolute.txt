@@ -1,0 +1,10 @@
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\bin\Debug\TextToSpeechConvertor.exe.config
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\bin\Debug\TextToSpeechConvertor.exe
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\bin\Debug\TextToSpeechConvertor.pdb
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\obj\Debug\TextToSpeechConvertor.csprojAssemblyReference.cache
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\obj\Debug\TextToSpeechConvertor.Form1.resources
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\obj\Debug\TextToSpeechConvertor.Properties.Resources.resources
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\obj\Debug\TextToSpeechConvertor.csproj.GenerateResource.cache
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\obj\Debug\TextToSpeechConvertor.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\obj\Debug\TextToSpeechConvertor.exe
+C:\xampp\htdocs\TextToSpeechConvertor\TextToSpeechConvertor\obj\Debug\TextToSpeechConvertor.pdb
